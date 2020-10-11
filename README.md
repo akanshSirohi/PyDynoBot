@@ -18,6 +18,7 @@ It can only jump but works fine
 
 ### X1,Y1
 <img src="imgs/x1_y1.png?raw=true" alt="X1_Y1">
+
 ### X2,Y2
 <img src="imgs/x2_y2.png?raw=true" alt="X2_Y2">
 
