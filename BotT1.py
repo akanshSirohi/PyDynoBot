@@ -11,8 +11,8 @@ def getPixel(x,y):
     return (rgb & 0xff,(rgb >> 8) & 0xff,(rgb >> 16) & 0xff)
 
 i=1
-x1,x2=250,255
-y1,y2=293,265
+x1,y1 = 250,293
+x2,y2 = 255,265
 while(True):
     avg1 = []
     avg2 = []
